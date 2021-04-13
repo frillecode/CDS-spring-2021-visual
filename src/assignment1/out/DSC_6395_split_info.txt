@@ -1,0 +1,4 @@
+Filename: DSC_6395_quadrant_0.jpg, height: 2000.0, width: 3008.0. 
+Filename: DSC_6395_quadrant_1.jpg, height: 2000.0, width: 3008.0. 
+Filename: DSC_6395_quadrant_2.jpg, height: 2000.0, width: 3008.0. 
+Filename: DSC_6395_quadrant_3.jpg, height: 2000.0, width: 3008.0. 

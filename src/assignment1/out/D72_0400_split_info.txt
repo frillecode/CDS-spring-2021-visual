@@ -1,0 +1,4 @@
+Filename: D72_0400_quadrant_0.jpg, height: 934.5, width: 1402.0. 
+Filename: D72_0400_quadrant_1.jpg, height: 934.5, width: 1402.0. 
+Filename: D72_0400_quadrant_2.jpg, height: 934.5, width: 1402.0. 
+Filename: D72_0400_quadrant_3.jpg, height: 934.5, width: 1402.0. 
